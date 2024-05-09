@@ -17,3 +17,5 @@ scarcity of annotated real-world data in this domain, the project aims to employ
 reversal to bridge the gap between the simulated environment and real-world scenarios,
 enabling the trained model to maintain high segmentation accuracy across different data
 sources.
+
+To train a model, change the path to the folders in the variable dataset in the file "TRAIN.py".
